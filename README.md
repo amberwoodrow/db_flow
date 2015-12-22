@@ -1,3 +1,3 @@
-#DB Flow Chart
+# DB Flow Chart
 
-[Flow Chart](http://imgur.com/rzAp2wW)
+![flow chart](./images/dbFlow.png)
